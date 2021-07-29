@@ -1,27 +1,25 @@
 
-
-##      NTIC WEBSITE - AKA FIRST WEBSITE.
-
-
-##      "NTIC" LOGO MADE BY ME.
+######      NTIC WEBSITE - AKA FIRST WEBSITE.
 
 
-##      ILLUSTRATIONS WERE TAKEN FROM /* https://storyset.com/  */
+######      "NTIC" Logo made by me.
 
 
-##      MAIN COLORS USED IN THE DESIGN ARE : 
-##      #292929, #273150, #ABB0FF, #666DF7, #192023, #D2D6DC, #FEFEFE.
+######      Illustrations were taken from /* https://storyset.com/  */
 
 
-##      ICONS USED WERE TAKEN FROM /* https://remixicon.com/ -- https://www.flaticon.com/ */
+######      Main colors used in the design are :  ***#292929, #273150, #ABB0FF, #666DF7, #192023, #D2D6DC, #FEFEFE.***
 
 
-##     ENGLISH FONT USED : "Prompt" , sans serif.
+######      Icons used were taken from /* https://remixicon.com/ -- https://www.flaticon.com/ */
 
 
-##     ARABIC FONT USED : "Noor", "Noor Light", sans serif.
+######     English font used : ***"Prompt" , sans serif.***
 
 
-##     *** STILL WORKING ON THE WEBSITE ***
+######     Arabic font used : ***"Noor", "Noor Light", sans serif.***
+
+
+######     ***STILL WORKING ON THE WEBSITE***
 
 
