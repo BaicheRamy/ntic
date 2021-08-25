@@ -20,6 +20,8 @@
 ######     Arabic font used : ***"Noor", "Noor Light", sans serif.***
 
 
-######     ***STILL WORKING ON THE WEBSITE***
+######     Web page design (FIGMA) : https://www.figma.com/file/kvxfmlIpcgNCSTqWkCJKVI/NTIC?node-id=0%3A1
 
+
+######     ***STILL WORKING ON THE WEBSITE***
 
