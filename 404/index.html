@@ -7,6 +7,24 @@
     <title>Page not found</title>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" type="image/x-icon" href="./scr/25-2.png">
+    <script type="text/JavaScript">
+  ((function(){
+    var loadWidget = function(){
+      var script = "https://widget-service.emplorium.io/acc-0cf0a/init.js"
+      var x = document.createElement('script');
+      var sx = document.getElementsByTagName('script')[0];
+      x.src = script; x.async = true;
+      sx.parentNode.insertBefore(x,sx)
+    }
+    if(document.readyState==="complete"){
+      loadWidget();
+    } else if (window.addEventListener){
+      window.addEventListener('load',loadWidget,false)
+    } else if (window.attachEvent) {
+      window.attachEvent("onload",loadWidget)
+    }
+  })())
+</script>
     <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
     <script src="pace.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/jquery-bez@1.0.11/src/jquery.bez.js"></script>
